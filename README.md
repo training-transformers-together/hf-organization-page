@@ -13,12 +13,12 @@ pinned: false
 <p class="lg:col-span-3">
 
 </p>
-<a href="https://spacy.io/" class="block overflow-hidden group">
+<p>
     <!-- TODO: add the links -->
     👉 the <a class="underline" >"How to join?" spaces </a> <br>
     👉 the <a href="https://huggingface.co/spaces/training-transformers-together/Dashboard" class="underline" >"Dashboard"  spaces </a> <br>
     👉 the frequently updated <a class="underline" >model</a> <br>
-</a>
+</p>
 
 <a class="block overflow-hidden">
 	<div
