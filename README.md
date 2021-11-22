@@ -15,11 +15,9 @@ pinned: false
 </p>
 <a href="https://spacy.io/" class="block overflow-hidden group">
     <!-- TODO: add the links -->
-<ul>
-    <li> ::before the <a class="underline" >"How to join?" spaces </a></li>
-    <li> ::before the <a href="https://huggingface.co/spaces/training-transformers-together/Dashboard" class="underline" >"Dashboard"  spaces </a></li>
-    <li> ::before the frequently updated <a class="underline" >model</a></li>
-</ul>
+    👉 the <a class="underline" >"How to join?" spaces </a> <br>
+    👉 the <a href="https://huggingface.co/spaces/training-transformers-together/Dashboard" class="underline" >"Dashboard"  spaces </a> <br>
+    👉 the frequently updated <a class="underline" >model</a> <br>
 </a>
 
 <a class="block overflow-hidden">
