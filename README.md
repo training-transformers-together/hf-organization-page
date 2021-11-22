@@ -14,12 +14,11 @@ pinned: false
 
 </p>
 <a href="https://spacy.io/" class="block overflow-hidden group">
-	Do not hesitate to consult:
     <!-- TODO: add the links -->
 <ul>
-    <li> the <a class="underline" >"How to join?" spaces</a></li>
-    <li> the <a href="https://huggingface.co/spaces/training-transformers-together/Dashboard" class="underline" >"Dashboard"  spaces </a></li>
-    <li> the frequently updated <a class="underline" >model</a></li>
+    <li> ::before the <a class="underline" >"How to join?" spaces </a></li>
+    <li> ::before the <a href="https://huggingface.co/spaces/training-transformers-together/Dashboard" class="underline" >"Dashboard"  spaces </a></li>
+    <li> ::before the frequently updated <a class="underline" >model</a></li>
 </ul>
 </a>
 
