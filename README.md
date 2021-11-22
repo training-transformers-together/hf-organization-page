@@ -16,7 +16,7 @@ pinned: false
 <p>
 Where to start?<br>
     <!-- TODO: add the links -->
-    👉 the <a class="underline" >"How to join?" spaces </a> <br>
+    👉 the <a class="underline" href="https://huggingface.co/spaces/training-transformers-together/how-to-join">"How to join?" spaces </a> <br>
     👉 the <a href="https://huggingface.co/spaces/training-transformers-together/Dashboard" class="underline" >"Dashboard"  spaces </a> <br>
     👉 the frequently updated <a class="underline" >model</a> <br>
 </p>
