@@ -17,9 +17,9 @@ pinned: false
 	Do not hesitate to consult:
     <!-- TODO: add the links -->
 <ul>
-    <li> the spaces which explains how to join the collaborative training</li>
-    <li> the <a href="https://huggingface.co/spaces/training-transformers-together/Dashboard"> spaces </a> that gathers the training metrics of the model</li>
-    <li> the model uploaded regularly during its training</li>
+    <li> the <a class="underline" >"How to join?" spaces</a></li>
+    <li> the <a href="https://huggingface.co/spaces/training-transformers-together/Dashboard" class="underline" >"Dashboard"  spaces </a></li>
+    <li> the frequently updated <a class="underline" >model</a></li>
 </ul>
 </a>
 
