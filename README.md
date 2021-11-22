@@ -14,6 +14,7 @@ pinned: false
 
 </p>
 <p>
+Where to start?
     <!-- TODO: add the links -->
     👉 the <a class="underline" >"How to join?" spaces </a> <br>
     👉 the <a href="https://huggingface.co/spaces/training-transformers-together/Dashboard" class="underline" >"Dashboard"  spaces </a> <br>
@@ -34,5 +35,4 @@ pinned: false
 	>
 	<iframe src="https://www.youtube.com/embed/zdVsg5zsGdc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe>
 	</div>
-	<div href="https://www.youtube.com/watch?v=zdVsg5zsGdc" class="underline">How does it work?</div>
 </a>
