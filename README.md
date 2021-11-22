@@ -31,7 +31,7 @@ pinned: false
 	<div
 		class="w-full h-40 mb-2 bg-gray-900 group-hover:bg-gray-850 rounded-lg flex items-start justify-start overflow-hidden"
 	>
-	<iframe src="https://www.youtube.com/watch?v=zdVsg5zsGdc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe>
+	<iframe src="https://www.youtube.com/embed/zdVsg5zsGdc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe>
 	</div>
 	<div href="https://www.youtube.com/watch?v=zdVsg5zsGdc" class="underline">How does it work?</div>
 </a>
