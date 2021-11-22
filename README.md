@@ -10,7 +10,11 @@ pinned: false
 <p class="lg:col-span-3">
 	This organization gathers all the collaborators who participated in the collaborative training of the model <b>Insert model name here with href</b>. <br>
 </p>
+<p class="lg:col-span-3">
+<div class="aspect-w-16 aspect-h-9">
 <iframe src="https://www.youtube.com/embed/v8ShbLasRF8" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe>
+</div>
+</p>
 <a href="https://spacy.io/" class="block overflow-hidden group">
 	<div
 		class="w-full h-40 object-cover mb-2 rounded-lg flex items-center justify-center bg-[#ECFAFF]"
