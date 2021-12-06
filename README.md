@@ -7,32 +7,22 @@ sdk: static
 pinned: false
 ---
 
-<p class="lg:col-span-3">
-	This organization gathers all the collaborators who participated in the collaborative training of the model <b>Insert model name here with href</b>. <br>
-</p>
-<p class="lg:col-span-3">
+This organization is a part of the NeurIPS 2021 demonstration <a href="https://training-transformers-together.github.io/">"Training Transformers Together"</a>.
 
-</p>
-<p>
-Where to start?<br>
-    <!-- TODO: add the links -->
-    👉 the <a class="underline" href="https://huggingface.co/spaces/training-transformers-together/how-to-join">"How to join?" spaces </a> <br>
-    👉 the <a href="https://huggingface.co/spaces/training-transformers-together/Dashboard" class="underline" >"Dashboard"  spaces </a> <br>
-    👉 the frequently updated <a class="underline" >model</a> <br>
-</p>
+In this demo, we train a model similar to <a target="_blank" href="https://openai.com/blog/dall-e/">OpenAI DALL-E</a> —
+a Transformer "language model" that generates images from text descriptions.
+It is trained on <a target="_blank" href="https://laion.ai/laion-400-open-dataset/">LAION-400M</a>,
+the world's largest openly available image-text-pair dataset with 400 million samples. Our model is based on
+the <a target="_blank" href="https://github.com/lucidrains/DALLE-pytorch">dalle‑pytorch</a> implementation
+by <a target="_blank" href="https://github.com/lucidrains">Phil Wang</a> with a few tweaks to make it communication-efficient.
 
-<a class="block overflow-hidden">
-	<div
-		class="w-full h-40 mb-2 bg-gray-900 group-hover:bg-gray-850 rounded-lg flex items-start justify-start overflow-hidden"
-	>
-	<iframe src="https://www.youtube.com/embed/v8ShbLasRF8" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe>
-	<div href="https://www.youtube.com/watch?v=v8ShbLasRF8&t=6s" class="underline">What is a collaborative training?</div>
-    </div>
-</a>
-<a class="block overflow-hidden group">
-	<div
-		class="w-full h-40 mb-2 bg-gray-900 group-hover:bg-gray-850 rounded-lg flex items-start justify-start overflow-hidden"
-	>
-	<iframe src="https://www.youtube.com/embed/zdVsg5zsGdc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe>
-	</div>
-</a>
+See details about how to join and how it works on <a target="_blank" href="https://training-transformers-together.github.io/">our website</a>.
+
+The organization gathers people participating in the collaborative training and provides links to the necessary resources:
+
+- 👉 Starter kits for **Google Colab** and **Kaggle** (easy way to join the training)
+- 👉 [Dashboard](https://huggingface.co/spaces/training-transformers-together/Dashboard) (the current training state: loss, number of peers, etc.)
+- 👉 [Model](https://huggingface.co/training-transformers-together/dalle-demo) (the latest model checkpoint)
+- 👉 [Dataset](https://huggingface.co/datasets/laion/laion_100m_vqgan_f8)
+
+Feel free to reach us on [Discord](https://discord.gg/uGugx9zYvN) if you have any questions 🙂
