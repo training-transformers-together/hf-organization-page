@@ -15,7 +15,8 @@ pinned: false
   <p class="mb-2">
     In this demo, we train a model similar to <u><a target="_blank" href="https://openai.com/blog/dall-e/">OpenAI DALL-E</a></u> —
     a Transformer "language model" that generates images from text descriptions.
-    It is trained on <u><a target="_blank" href="https://laion.ai/laion-400-open-dataset/">LAION-400M</a></u>,
+    Training happens collaboratively — volunteers from all over the Internet contribute to the training using hardware available to them.
+    We use <u><a target="_blank" href="https://laion.ai/laion-400-open-dataset/">LAION-400M</a></u>,
     the world's largest openly available image-text-pair dataset with 400 million samples. Our model is based on
     the <u><a target="_blank" href="https://github.com/lucidrains/DALLE-pytorch">dalle‑pytorch</a></u> implementation
     by <u><a target="_blank" href="https://github.com/lucidrains">Phil Wang</a></u> with a few tweaks to make it communication-efficient.
