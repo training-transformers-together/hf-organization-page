@@ -8,7 +8,7 @@ pinned: false
 ---
 
 <div class="lg:col-span-3">
-  <p>
+  <p class="mb-2">
     This organization is a part of the NeurIPS 2021 demonstration <a href="https://training-transformers-together.github.io/">"Training Transformers Together"</a>.
   </p>
   <p>
