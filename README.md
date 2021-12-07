@@ -30,7 +30,7 @@ pinned: false
   <ul class="mb-2">
     <li>👉 Starter kits for <b>Google Colab</b> and <b>Kaggle</b> (easy way to join the training)</li>
     <li>👉 <u><a target="_blank" href="https://huggingface.co/spaces/training-transformers-together/Dashboard">Dashboard</a></u> (the current training state: loss, number of peers, etc.)</li>
-    <li>👉 <u><a target="_blank" href="https://huggingface.co/training-transformers-together/dalle-demo">Model weights</a></u> (the latest checkpoint)</li>
+    <li>👉 <u><a target="_blank" href="https://huggingface.co/training-transformers-together/collaborative-dalle">Model weights</a></u> (the latest checkpoint)</li>
     <li>👉 <u><a target="_blank" href="https://github.com/learning-at-home/dalle-hivemind">Code</a></u></li>
     <li>👉 <u><a target="_blank" href="https://huggingface.co/datasets/laion/laion_100m_vqgan_f8">Dataset</a></u></li>
   </ul>
