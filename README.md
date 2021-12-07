@@ -28,7 +28,7 @@ pinned: false
     This organization gathers people participating in the collaborative training and provides links to the necessary resources:
   </p>
   <ul class="mb-2">
-    <li>👉 Starter kits for <b>Google Colab</b> and <b>Kaggle</b> (easy way to join the training)</li>
+    <li>👉 Starter kits for <u><a target="_blank" href="https://colab.research.google.com/drive/1BqTWcfsvNQwQqqCRKMKp1_jvQ5L1BhCY?usp=sharing">Google Colab</a></u>    and <u><a target="_blank" href="https://www.kaggle.com/yhn112/training-transformers-together/">Kaggle</a></u> (easy way to join the training)</li>
     <li>👉 <u><a target="_blank" href="https://huggingface.co/spaces/training-transformers-together/Dashboard">Dashboard</a></u> (the current training state: loss, number of peers, etc.)</li>
     <li>👉 <u><a target="_blank" href="https://huggingface.co/training-transformers-together/collaborative-dalle">Model weights</a></u> (the latest checkpoint)</li>
     <li>👉 <u><a target="_blank" href="https://github.com/learning-at-home/dalle-hivemind">Code</a></u></li>
