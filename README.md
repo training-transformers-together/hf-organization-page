@@ -32,6 +32,7 @@ pinned: false
     <li>👉 <u><a target="_blank" href="https://huggingface.co/spaces/training-transformers-together/Dashboard">Dashboard</a></u> (the current training state: loss, number of peers, etc.)</li>
     <li>👉 <u><a target="_blank" href="https://colab.research.google.com/drive/1Vkb-4nhEEH1a5vrKtpL4MTNiUTPdpPUl?usp=sharing">Colab notebook for running inference</a></u>
     <li>👉 <u><a target="_blank" href="https://huggingface.co/training-transformers-together/dalle-demo-v1">Model weights</a></u> (the latest checkpoint)</li></li>
+    <li>👉 <u>W&B plots for <a target="_blank" href="https://wandb.ai/learning-at-home/dalle-hivemind/runs/3l7q56ht">aux peers</a> (aggregating the metrics) and actual <a target="_blank" href="https://wandb.ai/learning-at-home/dalle-hivemind-trainers">trainers</a> (contributing with their GPUs)</u></li>
     <li>👉 <u><a target="_blank" href="https://github.com/learning-at-home/dalle-hivemind">Code</a></u></li>
     <li>👉 <u><a target="_blank" href="https://huggingface.co/datasets/laion/laion_100m_vqgan_f8">Dataset</a></u></li>
   </ul>
